@@ -1,0 +1,42 @@
+/* ctrl+ space */
+
+#listOne li{
+    list-style-type:circle ;
+}
+
+#listTwo li{
+    list-style-type: disc;
+}
+
+/* table tr{
+    text-align: right;
+} */
+
+h1{
+    font-size: 32px;
+    color: #000;
+    background-color: red;
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+
+}
+
+
+/* class -- noqte id-- #  */
+
+.boxes{
+    display: flex;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 12px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin: 12 15 30 20;
+}
+
+
+
