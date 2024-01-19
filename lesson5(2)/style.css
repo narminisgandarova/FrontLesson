@@ -1,0 +1,29 @@
+.salam1{
+    color: red;
+    background-color: black;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px dotted blue;
+}
+.salam2{
+    color: blue;
+}
+
+#text{
+    color: brown;
+}
+h1{
+    color: blanchedalmond;
+}
+
+
+.boxes{
+    display: flex;
+}
+.boxes .box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 12px;
+    
+}
