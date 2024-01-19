@@ -1,0 +1,17 @@
+/* .box{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+span{
+    display: inline;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: #fff;
+} */
+
+
+ol li:nth-child(2n+3){
+    color: red;
+}
